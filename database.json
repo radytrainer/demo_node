@@ -1,0 +1,46 @@
+[
+  {
+    "firstName": "Rady",
+    "lastName": "Y",
+    "age": 28,
+    "experiences": [
+      {
+        "year": "2000",
+        "position": "student",
+        "description": "Study at primary school",
+        "bestfriend": ["Bopha", "Romdul", "Chompey"]
+      },
+      {
+        "year": "2022",
+        "position": "Teacher",
+        "description": "Work at PNC Center",
+        "bestfriend": ["Ronan", "Hyacinthe", "Savoeurn"]
+      }
+    ],
+    "dob": "01 October 1995",
+    "favoriteFruit": ["apple", "orange", "banana", "coconut"]
+
+  },
+  {
+    "firstName": "Ronan",
+    "lastName": "Ronaldo",
+    "age": 59,
+    "experiences": [
+      {
+        "year": "2000",
+        "position": "student",
+        "description": "Study at primary school",
+        "bestfriend": ["Obama", "Putin", "Justin"]
+      },
+      {
+        "year": "2022",
+        "position": "Teacher",
+        "description": "Work at PNC Center",
+        "bestfriend": ["Him", "Hyacinthe", "Rady"]
+      }
+    ],
+    "dob": "06 December 1980",
+    "favoriteFruit": [ "orange", "banana", "mango"]
+
+  }
+]
